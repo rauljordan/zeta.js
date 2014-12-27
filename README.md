@@ -4,7 +4,7 @@
 in javascript.
 
 
-[![browser support](http://ci.testling.com/rauljordan/zeta.js.png)](http://ci.testling.com/substack/gamma.js)
+[![browser support](http://ci.testling.com/rauljordan/zeta.js.png)](http://ci.testling.com/rauljordan/zeta.js)
 
 [![Build Status](https://travis-ci.org/rauljordan/zeta.js.svg?branch=master)](https://travis-ci.org/rauljordan/zeta.js)
 
