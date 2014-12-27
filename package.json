@@ -1,5 +1,5 @@
 {
-  "name" : "zeta",
+  "name" : "riemann-zeta",
   "version" : "1.0.0",
   "description" : "the Riemann Zeta Function in Javascript",
   "main" : "index.js",
@@ -25,6 +25,7 @@
     "url" : "http://github.com/rauljordan/zeta.js.git"
   },
   "keywords" : [
+    "riemann",
     "zeta",
     "mathematics"
   ],

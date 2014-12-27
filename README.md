@@ -11,7 +11,7 @@ in javascript with a 1.3% accuracy error
 # example
 
 ```
-> var zeta = require('zeta')
+> var zeta = require('riemann-zeta')
 > zeta(0)
 -0.5
 > zeta(10)
@@ -20,7 +20,7 @@ in javascript with a 1.3% accuracy error
 
 # methods
 
-var zeta = require('zeta')
+var zeta = require('riemann-zeta')
 
 ## zeta(s)
 
@@ -32,7 +32,7 @@ Return the riemann zeta function over `s`.
 With [npm](http://npmjs.org) do:
 
 ```
-npm install zeta
+npm install riemann-zeta
 ```
 
 
