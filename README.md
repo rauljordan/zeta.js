@@ -1,7 +1,7 @@
 # zeta
 
 [Riemann Zeta Function](http://en.wikipedia.org/wiki/Riemann_zeta_function)
-in javascript.
+in javascript with a 1.3% accuracy error
 
 
 [![browser support](http://ci.testling.com/rauljordan/zeta.js.png)](http://ci.testling.com/rauljordan/zeta.js)
@@ -12,10 +12,10 @@ in javascript.
 
 ```
 > var zeta = require('zeta')
-> zeta(5)
-23.999999999999996
-> zeta(1.6)
-0.8935153492876909
+> zeta(0)
+-0.5
+> zeta(10)
+1.00071
 ```
 
 # methods
