@@ -10,7 +10,7 @@
   "scripts" : {
     "test" : "tap test/*.js"
   },
-  "testling" : {
+  "testing" : {
     "files" : "test/*.js",
     "browsers" : {
       "iexplore" : [ "6.0", "7.0", "8.0", "9.0" ],
