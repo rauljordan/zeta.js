@@ -40,6 +40,11 @@ npm install zeta
 
 MIT
 =======
-zeta.js
-=======
+
+# credits
+The approximation follows from the Euler-Maclaurin sum formula (Ralston and Rabinowitz, 2001 by not considering the impact of Bernoulli numbers on the 
+calculation and taking the case when the lower limit of integration
+is specifically 2. Then, the approximation follows and works well enough
+for modern browsers and mathematical applications.
+
 
