@@ -4,9 +4,9 @@
 in javascript.
 
 
-[![browser support](http://ci.testling.com/substack/gamma.js.png)](http://ci.testling.com/substack/gamma.js)
+[![browser support](http://ci.testling.com/rauljordan/zeta.js.png)](http://ci.testling.com/substack/gamma.js)
 
-[![build status](https://secure.travis-ci.org/substack/gamma.js.png)](http://travis-ci.org/substack/gamma.js)
+[![Build Status](https://travis-ci.org/rauljordan/zeta.js.svg?branch=master)](https://travis-ci.org/rauljordan/zeta.js)
 
 # example
 
