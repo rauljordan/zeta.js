@@ -18,6 +18,8 @@ in javascript with a 1.3% accuracy error
 1.00071
 ```
 
+
+
 # methods
 
 var zeta = require('riemann-zeta')
